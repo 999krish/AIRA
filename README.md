@@ -91,39 +91,39 @@ Many students have brilliant ideas but lack the guidance, resources, or portfoli
 Follow these steps to run AIRA on your local machine.
 
 1. Prerequisites
-Python 3.9+
-
-pip and venv
+      Python 3.9+
+      
+      pip and venv
 
 2. Clone the Repository
-git clone [your-github-repo-link]
-cd aira
+      git clone [your-github-repo-link]
+      cd aira
 
 3. Set up a Virtual Environment
 # For Windows
-python -m venv venv
-venv\Scripts\activate
+      python -m venv venv
+      venv\Scripts\activate
 
 # For macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
+      python3 -m venv venv
+      source venv/bin/activate
 
 4. Install Dependencies
-pip install -r requirements.txt
+      pip install -r requirements.txt
 
 5. Configure Your Secrets
 Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
 
 # .streamlit/secrets.toml
 
-# Azure OpenAI Credentials
-AZURE_ENDPOINT = "your-azure-endpoint-here"
-AZURE_API_KEY = "your-azure-api-key-here"
-API_VERSION = "your-api-version"
-DEPLOYMENT_NAME = "your-model-deployment-name"
+    # Azure OpenAI Credentials
+    AZURE_ENDPOINT = "your-azure-endpoint-here"
+    AZURE_API_KEY = "your-azure-api-key-here"
+    API_VERSION = "your-api-version"
+    DEPLOYMENT_NAME = "your-model-deployment-name"  
 
 6. Run the Application
-streamlit run app.py
+     streamlit run app.py
 
 The application should now be running at http://localhost:8501.
 
@@ -135,10 +135,11 @@ Phase 2: The Student Platform (AIRA Multiplayer): Transform AIRA into a collabor
 Phase 3: The Global Hub (The AIRA Hub): Leverage our composable architecture's Integration Layer to plug in AI research teams for any industry—Finance, Computer Science, Law, and more—making AIRA a universal platform for discovery.
 
 👥 Team Members
-Krishna Vamsi R
+  
+      Krishna Vamsi R
 
-Philippa Burgess
-
-Aryan Jaiswal
-
-Charishma Regulavalasa
+      Philippa Burgess
+      
+      Aryan Jaiswal
+      
+      Charishma Regulavalasa

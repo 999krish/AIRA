@@ -42,10 +42,18 @@ The Composable Architecture
 <img width="952" height="720" alt="image" src="https://github.com/user-attachments/assets/f0f772c4-c51c-4099-9eb8-6539120fafc5" />
 
 
+
+
+
+
 Team Members:
+
 Krishna Vamsi R
+
 Philippa Burgess
+
 Aryan Jaiswal
+
 Charishma Regulavalasa
 
 

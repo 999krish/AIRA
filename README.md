@@ -45,18 +45,19 @@ The Composable Architecture
 
 
 
+============================================================================================================
 
 Team Members:
 
-Krishna Vamsi R
+              Krishna Vamsi R
 
-Philippa Burgess
+              Philippa Burgess
 
-Aryan Jaiswal
+              Aryan Jaiswal
 
-Charishma Regulavalasa
+              Charishma Regulavalasa
 
-
+=============================================================================================================
 
 
 🛠️ Setup & Installation

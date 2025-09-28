@@ -23,6 +23,7 @@ Interactive Virtual Lab: A user-friendly interface built with Streamlit that inc
 Composable & Grounded Architecture: The system is built on a sophisticated architecture that is grounded in real-world scientific data from public databases (UniProt, AlphaFold) and ensures that all research is repeatable and verifiable.
 
 📸 Screenshots
+<img width="1807" height="725" alt="image" src="https://github.com/user-attachments/assets/2304edab-6c23-475b-8ff2-b512cc8e68a5" />
 
 The AI Research Team in Action
 
@@ -38,11 +39,12 @@ The Composable Architecture
 <img width="1072" height="527" alt="image" src="https://github.com/user-attachments/assets/c61f54fa-1dba-4322-aec1-516c9237c5d4" />
 
 
+<img width="952" height="720" alt="image" src="https://github.com/user-attachments/assets/f0f772c4-c51c-4099-9eb8-6539120fafc5" />
 
 
 Team Members:
 Krishna Vamsi R
-Philippa Burgress
+Philippa Burgess
 Aryan Jaiswal
 Charishma Regulavalasa
 
@@ -89,9 +91,13 @@ streamlit run app.py
 
 The application should now be running on http://localhost:8501.
 
+DEMO : https://www.youtube.com/watch?v=FHkneqKVnS0
 🚀 Future Roadmap
 Our vision for AIRA extends beyond this hackathon prototype.
 
 Phase 2: The Student Platform (AIRA Multiplayer): Transform AIRA into a collaborative platform where student teams can work together on projects, guided by the AI agent mentors.
 
 Phase 3: The Global Hub (The AIRA Hub): Leverage our composable architecture's Integration Layer to plug in AI research teams for any industry—Finance, Computer Science, Law, and more—making AIRA a universal platform for discovery.
+
+<img width="1934" height="822" alt="image" src="https://github.com/user-attachments/assets/82f8d195-f481-40f0-a773-abcc221ed759" />
+

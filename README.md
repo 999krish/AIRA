@@ -91,15 +91,17 @@ Many students have brilliant ideas but lack the guidance, resources, or portfoli
 Follow these steps to run AIRA on your local machine.
 
 1. Prerequisites
-      Python 3.9+
+
+         Python 3.9+
       
-      pip and venv
+         pip and venv
 
-2. Clone the Repository
-      git clone [your-github-repo-link]
-      cd aira
+3. Clone the Repository
 
-3. Set up a Virtual Environment
+         git clone [your-github-repo-link]
+         cd aira
+
+5. Set up a Virtual Environment
 # For Windows
       python -m venv venv
       venv\Scripts\activate
@@ -109,9 +111,10 @@ Follow these steps to run AIRA on your local machine.
       source venv/bin/activate
 
 4. Install Dependencies
-      pip install -r requirements.txt
+   
+            pip install -r requirements.txt
 
-5. Configure Your Secrets
+6. Configure Your Secrets
 Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
 
 # .streamlit/secrets.toml
@@ -123,7 +126,8 @@ Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
     DEPLOYMENT_NAME = "your-model-deployment-name"  
 
 6. Run the Application
-     streamlit run app.py
+   
+           streamlit run app.py
 
 The application should now be running at http://localhost:8501.
 

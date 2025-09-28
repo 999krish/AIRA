@@ -1,0 +1,24 @@
+certifi
+protobuf
+streamlit==1.45.0  # For building the web app
+azure-ai-inference==1.0.0b9  # For Azure AI inference
+azure-core==1.33.0  # For Azure core functionality
+datamol==0.12.5  # For molecular manipulation and analysis
+py3Dmol==2.4.2  # For 3D molecular visualization
+rdkit==2024.9.6  # For cheminformatics and molecular modeling
+matplotlib==3.10.1  # For plotting and visualization
+seaborn==0.13.2  # For statistical data visualization
+pydantic==2.11.3
+pydantic_core==2.33.1
+datasets==3.5.1
+numpy==2.2.5  # For numerical computations
+pandas==2.2.3  # For data manipulation and analysis
+tqdm==4.67.1  # For progress bars
+Pillow==11.2.1  # For image processing
+requests==2.32.3  # For making HTTP requests
+uuid  # For generating unique identifiers
+pathlib  # For handling file paths
+transformers==4.51.3  # For transformer models
+datetime  # For date and time operations
+typing  # For type hints and annotations
+

@@ -11,9 +11,10 @@
 <a href="https://www.youtube.com/watch?v=FHkneqKVnS0"><strong>Watch the Demo »</strong></a>
 <br />
 <br />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python Version">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Framework-Streamlit-red.svg" alt="Framework">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AI-Azure_OpenAI-0078D4.svg" alt="AI Provider">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="Visual Studio Code">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Azure">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure_AI-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dazure-cognitive-services%26logoColor%3Dwhite" alt="Azure AI">
 </p>
 
 🎯 Project Goal: Solving the Student Opportunity Gap

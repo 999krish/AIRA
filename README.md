@@ -18,7 +18,7 @@
 </p>
 
 🎯 Our Mission: Solving the Student Opportunity Gap
-AIRA is a virtual research assistant developed for the [Name of Hackathon]. It demonstrates how a powerful, multi-agent AI system can replicate the capabilities of an interdisciplinary research team, making high-level scientific discovery accessible to everyone.
+AIRA is a virtual research assistant developed for the. It demonstrates how a powerful, multi-agent AI system can replicate the capabilities of an interdisciplinary research team, making high-level scientific discovery accessible to everyone.
 
 Many students have brilliant ideas but lack the guidance, resources, or portfolio to secure competitive research positions. AIRA provides a solution by giving every student on-demand access to a virtual, PhD-level research team, empowering them to:
 

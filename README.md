@@ -127,6 +127,4 @@ Team Members:
 
         Philippa Burgess
 
-        Aryan Jaiswal
-
         Charishma Regulavalasa

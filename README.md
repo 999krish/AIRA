@@ -130,7 +130,7 @@ Team Members:
     <li>Charishma Regulavalasa</li>
 </ul>
 
-<!-- Floating LinkedIn Icons -->
+<!-- Floating LinkedIn Icons with Tooltips -->
 <div style="
     position: fixed;
     bottom: 20px;
@@ -138,14 +138,15 @@ Team Members:
     display: flex;
     gap: 10px;
 ">
-    <a href="https://www.linkedin.com/in/krishna-vamsi" target="_blank">
+    <a href="https://www.linkedin.com/in/krishna-vamsi" target="_blank" title="Krishna vamsi R">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
     </a>
-    <a href="https://www.linkedin.com/in/philippaburgess" target="_blank">
+    <a href="https://www.linkedin.com/in/philippaburgess" target="_blank" title="Philippa Burgess">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
     </a>
-    <a href="https://www.linkedin.com/in/charishma-regulavalasa" target="_blank">
+    <a href="https://www.linkedin.com/in/charishma-regulavalasa" target="_blank" title="Charishma Regulavalasa">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
     </a>
 </div>
+
 

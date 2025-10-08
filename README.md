@@ -1,24 +1,25 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1200x400/010314/ffa600%3Ftext%3DAIRA%26font%3Dinter" alt="AIRA Banner"/>
+<img src="https://www.google.com/search?q=https://placehold.co/1200x400/0B0F19/FFBF00%3Ftext%3DAIRA%26font%3Draleway" alt="AIRA Banner"/>
 </p>
 
 <h1 align="center">🚀 AIRA: Your Personal PhD Research Team 🚀</h1>
 
 <p align="center">
-<strong>Can't get a research position? We built you one.</strong>
+<em>Can't get a research position? We built you one.</em>
 <br />
 <br />
 <a href="https://www.youtube.com/watch?v=FHkneqKVnS0"><strong>📺 Watch the Live Demo »</strong></a>
-<br />
-<br />
+</p>
+
+<p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="Visual Studio Code">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit%26logoColor%3Dwhite" alt="Streamlit">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Azure">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure_AI-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dazure-cognitive-services%26logoColor%3Dwhite" alt="Azure AI">
 </p>
 
 🎯 Our Mission: Solving the Student Opportunity Gap
-AIRA is a virtual research assistant developed for the. It demonstrates how a powerful, multi-agent AI system can replicate the capabilities of an interdisciplinary research team, making high-level scientific discovery accessible to everyone.
+AIRA is a virtual research assistant that demonstrates how a powerful, multi-agent AI system can replicate the capabilities of an interdisciplinary research team, making high-level scientific discovery accessible to everyone.
 
 Many students have brilliant ideas but lack the guidance, resources, or portfolio to secure competitive research positions. AIRA provides a solution by giving every student on-demand access to a virtual, PhD-level research team, empowering them to:
 
@@ -38,122 +39,114 @@ Many students have brilliant ideas but lack the guidance, resources, or portfoli
 🔗 Composable & Grounded Architecture: The system is built on a sophisticated architecture that is grounded in real-world scientific data from public databases (UniProt, AlphaFold) and ensures that all research is repeatable and verifiable.
 
 📸 Application in Action
-The AI Research Team in Action: Agents collaborating to solve a research problem.
+<details>
+<summary><strong>Click to view screenshots</strong></summary>
+
+
+
+
 
 <p align="center">
+<strong>The AI Research Team in Action: Agents collaborating to solve a research problem.</strong>
+
+
+
+
 <img width="90%" alt="The AI Research Team in Action" src="https://github.com/user-attachments/assets/2304edab-6c23-475b-8ff2-b512cc8e68a5" />
 </p>
 
-3D Molecule Visualization: An AI-designed compound shown in the interactive lab.
-
 <p align="center">
+<strong>3D Molecule Visualization: An AI-designed compound shown in the interactive lab.</strong>
+
+
+
+
 <img width="90%" alt="3D Molecule Visualization" src="https://github.com/user-attachments/assets/0ba293ff-84d4-44e7-adf0-fee4b4842bb3" />
 </p>
 
-The Composable Architecture: A look at the system's robust, layered design.
-
 <p align="center">
+<strong>The Composable Architecture: A look at the system's robust, layered design.</strong>
+
+
+
+
 <img width="70%" alt="The Composable Architecture" src="https://github.com/user-attachments/assets/a7b2fdc5-ddc2-4ae1-beaa-46d6b9f13f14" />
 </p>
 
-Application Workflow and Login Screens.
-
 <p align="center">
+<strong>Application Workflow and Login Screens.</strong>
+
+
+
+
 <img width="60%" alt="Application Workflow 1" src="https://github.com/user-attachments/assets/c61f54fa-1dba-4322-aec1-516c9237c5d4" />
 <img width="50%" alt="Login Screen" src="https://github.com/user-attachments/assets/f0f772c4-c51c-4099-9eb8-6539120fafc5" />
 </p>
 
-Final Report Generation: The end-to-end process culminating in a research paper.
-
 <p align="center">
+<strong>Final Report Generation: The end-to-end process culminating in a research paper.</strong>
+
+
+
+
 <img width="90%" alt="Final Report Generation" src="https://github.com/user-attachments/assets/82f8d195-f481-40f0-a773-abcc221ed759" />
 </p>
+</details>
 
 🛠️ Get Started: Setup & Installation
 Follow these steps to run AIRA on your local machine.
 
 1. Prerequisites
+Python 3.9+
 
-       Python 3.9+
+pip and venv
 
-       pip and venv
+2. Clone the Repository
+git clone [your-github-repo-link]
+cd aira
 
-3. Clone the Repository
-   
-       git clone [your-github-repo-link]
-       cd aira
+3. Set up a Virtual Environment
+For Windows:
 
-4. Set up a Virtual Environment
+python -m venv venv
+venv\Scripts\activate
 
-        # For Windows
-        python -m venv venv
-        venv\Scripts\activate
+For macOS/Linux:
 
-# For macOS/Linux
-
-        python3 -m venv venv
-        source venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 
 4. Install Dependencies
-   
-        pip install -r requirements.txt
+pip install -r requirements.txt
 
-6. Configure Your Secrets
+5. Configure Your Secrets
 Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
 
-
-        # .streamlit/secrets.toml
+# .streamlit/secrets.toml
 
 # Azure OpenAI Credentials
-        
-        AZURE_ENDPOINT = "your-azure-endpoint-here"
-        
-        AZURE_API_KEY = "your-azure-api-key-here"
-        
-        API_VERSION = "your-api-version"
-        
-        DEPLOYMENT_NAME = "your-model-deployment-name"
+AZURE_ENDPOINT = "your-azure-endpoint-here"
+AZURE_API_KEY = "your-azure-api-key-here"
+API_VERSION = "your-api-version"
+DEPLOYMENT_NAME = "your-model-deployment-name"
 
 6. Run the Application
-   
-        streamlit run app.py
+streamlit run app.py
 
-==================================================================
+👥 Meet the Team
+Member
 
+LinkedIn Profile
 
-Team Members:
+Krishna vamsi R
 
-<h3>Team Members:</h3>
-<ul style="list-style: none; padding-left: 0;">
-    <li>Krishna vamsi R</li>
-    <li>Philippa Burgess</li>
-    <li>Charishma Regulavalasa</li>
-</ul>
+<a href="https://www.linkedin.com/in/krishna-vamsi"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
 
-<!-- Floating LinkedIn Icons with hover effect -->
-<div style="
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    display: flex;
-    gap: 10px;
-">
-    <a href="https://www.linkedin.com/in/krishna-vamsi" target="_blank" title="Krishna vamsi R">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="transition: filter 0.3s;">
-    </a>
-    <a href="https://www.linkedin.com/in/philippaburgess" target="_blank" title="Philippa Burgess">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="transition: filter 0.3s;">
-    </a>
-    <a href="https://www.linkedin.com/in/charishma-regulavalasa" target="_blank" title="Charishma Regulavalasa">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="transition: filter 0.3s;">
-    </a>
-</div>
+Philippa Burgess
 
-<style>
-    div a img:hover {
-        filter: invert(52%) sepia(94%) saturate(2819%) hue-rotate(175deg) brightness(95%) contrast(97%);
-    }
-</style>
+<a href="https://www.linkedin.com/in/philippaburgess"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
 
+Charishma Regulavalasa
 
+<a href="https://www.linkedin.com/in/charishma-regulavalasa"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
 

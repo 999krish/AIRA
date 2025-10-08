@@ -123,25 +123,29 @@ Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
 
 Team Members:
 
-        <h3>Team Members:</h3>
-
+<h3>Team Members:</h3>
 <ul style="list-style: none; padding-left: 0;">
-    <li>
-        Krishna vamsi R
-        <a href="https://www.linkedin.com/in/krishna-vamsi" target="_blank" style="margin-left: 10px;">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align: middle;">
-        </a>
-    </li>
-    <li>
-        Philippa Burgess
-        <a href="https://www.linkedin.com/in/philippaburgess" target="_blank" style="margin-left: 10px;">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align: middle;">
-        </a>
-    </li>
-    <li>
-        Charishma Regulavalasa
-        <a href="https://www.linkedin.com/in/charishma-regulavalasa" target="_blank" style="margin-left: 10px;">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align: middle;">
-        </a>
-    </li>
+    <li>Krishna vamsi R</li>
+    <li>Philippa Burgess</li>
+    <li>Charishma Regulavalasa</li>
 </ul>
+
+<!-- Floating LinkedIn Icons -->
+<div style="
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    gap: 10px;
+">
+    <a href="https://www.linkedin.com/in/krishna-vamsi" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
+    </a>
+    <a href="https://www.linkedin.com/in/philippaburgess" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
+    </a>
+    <a href="https://www.linkedin.com/in/charishma-regulavalasa" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
+    </a>
+</div>
+

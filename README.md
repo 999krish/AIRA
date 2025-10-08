@@ -92,15 +92,15 @@ Follow these steps to run AIRA on your local machine.
                  python3 -m venv venv
                  source venv/bin/activate
          
-         #Install Dependencies
-            
-                 pip install -r requirements.txt
+  #Install Dependencies
          
-         6. Configure Your Secrets
-         Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
-             # .streamlit/secrets.toml
-         
-         # Azure OpenAI Credentials
+          pip install -r requirements.txt
+          
+  6. Configure Your Secrets
+  Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
+             
+         # .streamlit/secrets.toml
+# Azure OpenAI Credentials
                  
                  AZURE_ENDPOINT = "your-azure-endpoint-here"
                  
@@ -110,9 +110,10 @@ Follow these steps to run AIRA on your local machine.
                  
                  DEPLOYMENT_NAME = "your-model-deployment-name"
          
-         6. Run the Application
-            
-                 streamlit run app.py
+  6. Run the Application
+
+
+            streamlit run app.py
 
 ==================================================================
 

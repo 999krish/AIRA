@@ -1,10 +1,6 @@
-Got it 👍 — you want each **team member’s name itself to be clickable** (linking to their LinkedIn), instead of having a separate “LinkedIn” text link.
 
-Here’s your **complete Markdown README** with everything in one code block, and clickable names at the bottom 👇
 
----
 
-````markdown
 <p align="center">
   <img src="https://placehold.co/1200x400/010314/ffa600?text=AIRA&font=inter" alt="AIRA Banner"/>
 </p>
@@ -74,7 +70,7 @@ AIRA provides a solution by giving every student on-demand access to a virtual, 
   <img width="90%" alt="Final Report Generation" src="https://github.com/user-attachments/assets/82f8d195-f481-40f0-a773-abcc221ed759" />
 </p>
 
----
+
 
 🛠️ **Get Started: Setup & Installation**
 

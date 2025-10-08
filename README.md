@@ -123,8 +123,8 @@ Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
 
 Team Members:
 
-        Krishna vamsi R
+        Krishna vamsi R : 
 
-        Philippa Burgess
+        Philippa Burgess : https://www.linkedin.com/in/philippaburgess
 
         Charishma Regulavalasa

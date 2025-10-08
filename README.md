@@ -130,7 +130,7 @@ Team Members:
     <li>Charishma Regulavalasa</li>
 </ul>
 
-<!-- Floating LinkedIn Icons with Tooltips -->
+<!-- Floating LinkedIn Icons with hover effect -->
 <div style="
     position: fixed;
     bottom: 20px;
@@ -139,14 +139,21 @@ Team Members:
     gap: 10px;
 ">
     <a href="https://www.linkedin.com/in/krishna-vamsi" target="_blank" title="Krishna vamsi R">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="transition: filter 0.3s;">
     </a>
     <a href="https://www.linkedin.com/in/philippaburgess" target="_blank" title="Philippa Burgess">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="transition: filter 0.3s;">
     </a>
     <a href="https://www.linkedin.com/in/charishma-regulavalasa" target="_blank" title="Charishma Regulavalasa">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="transition: filter 0.3s;">
     </a>
 </div>
+
+<style>
+    div a img:hover {
+        filter: invert(52%) sepia(94%) saturate(2819%) hue-rotate(175deg) brightness(95%) contrast(97%);
+    }
+</style>
+
 
 

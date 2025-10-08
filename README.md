@@ -125,6 +125,9 @@ Team Members:
 
         Krishna vamsi R : 
 
-        Philippa Burgess : https://www.linkedin.com/in/philippaburgess
+        Philippa Burgess : 
+        <br />
+        <a href="https://www.linkedin.com/in/philippaburgess"><strong> Linkedin »</strong></a>
+        <br />
 
         Charishma Regulavalasa

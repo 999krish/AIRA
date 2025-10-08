@@ -126,9 +126,9 @@ streamlit run app.py
 
 👨‍💻 **Team Members**
 
-* [Krishna Vamsi R](https://www.linkedin.com/in/krishnavamsir)
+* [Krishna Vamsi R]([https://www.linkedin.com/in/krishnavamsi190320])
 * [Philippa Burgess](https://www.linkedin.com/in/philippaburgess)
-* [Charishma Regulavalasa](https://www.linkedin.com/in/charishmaregulavalasa)
+* [Charishma Regulavalasa]([https://www.linkedin.com/in/charishma1999])
 
 ---
 

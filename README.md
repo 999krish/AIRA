@@ -73,17 +73,15 @@ Final Report Generation: The end-to-end process culminating in a research paper.
 Follow these steps to run AIRA on your local machine.
 
 1. Prerequisites
-
-       Python 3.9+
+   Python 3.9+
 
        pip and venv
-
-3. Clone the Repository
+ Clone the Repository
    
        git clone [your-github-repo-link]
        cd aira
 
-4. Set up a Virtual Environment
+Set up a Virtual Environment
 
         # For Windows
         python -m venv venv
@@ -94,7 +92,7 @@ Follow these steps to run AIRA on your local machine.
         python3 -m venv venv
         source venv/bin/activate
 
-4. Install Dependencies
+#Install Dependencies
    
         pip install -r requirements.txt
 

@@ -122,31 +122,34 @@ Many students have brilliant ideas but lack the guidance, resources, or portfoli
     5. Configure Your Secrets
     Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
     
-    # .streamlit/secrets.toml
+# .streamlit/secrets.toml
     
     # Azure OpenAI Credentials
     AZURE_ENDPOINT = "your-azure-endpoint-here"
+    
     AZURE_API_KEY = "your-azure-api-key-here"
+    
     API_VERSION = "your-api-version"
+    
     DEPLOYMENT_NAME = "your-model-deployment-name"
     
-    6. Run the Application
-    streamlit run app.py
+6. Run the Application
+   streamlit run app.py
     
-    👥 Meet the Team
+👥 Meet the Team
     Member
     
-    LinkedIn Profile
+LinkedIn Profile
     
-    Krishna vamsi R
+Krishna vamsi R
     
-    <a href="https://www.linkedin.com/in/krishna-vamsi"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://www.linkedin.com/in/krishna-vamsi"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
     
-    Philippa Burgess
+Philippa Burgess
     
-    <a href="https://www.linkedin.com/in/philippaburgess"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://www.linkedin.com/in/philippaburgess"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
     
-    Charishma Regulavalasa
+Charishma Regulavalasa
     
-    <a href="https://www.linkedin.com/in/charishma-regulavalasa"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://www.linkedin.com/in/charishma-regulavalasa"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
 

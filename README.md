@@ -93,60 +93,60 @@ Many students have brilliant ideas but lack the guidance, resources, or portfoli
 </p>
 </details>
 
-🛠️ Get Started: Setup & Installation
-Follow these steps to run AIRA on your local machine.
-
-1. Prerequisites
-Python 3.9+
-
-pip and venv
-
-2. Clone the Repository
-git clone [your-github-repo-link]
-cd aira
-
-3. Set up a Virtual Environment
-For Windows:
-
-python -m venv venv
-venv\Scripts\activate
-
-For macOS/Linux:
-
-python3 -m venv venv
-source venv/bin/activate
-
-4. Install Dependencies
-pip install -r requirements.txt
-
-5. Configure Your Secrets
-Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
-
-# .streamlit/secrets.toml
-
-# Azure OpenAI Credentials
-AZURE_ENDPOINT = "your-azure-endpoint-here"
-AZURE_API_KEY = "your-azure-api-key-here"
-API_VERSION = "your-api-version"
-DEPLOYMENT_NAME = "your-model-deployment-name"
-
-6. Run the Application
-streamlit run app.py
-
-👥 Meet the Team
-Member
-
-LinkedIn Profile
-
-Krishna vamsi R
-
-<a href="https://www.linkedin.com/in/krishna-vamsi"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-
-Philippa Burgess
-
-<a href="https://www.linkedin.com/in/philippaburgess"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-
-Charishma Regulavalasa
-
-<a href="https://www.linkedin.com/in/charishma-regulavalasa"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+    🛠️ Get Started: Setup & Installation
+    Follow these steps to run AIRA on your local machine.
+    
+    1. Prerequisites
+    Python 3.9+
+    
+    pip and venv
+    
+    2. Clone the Repository
+    git clone [your-github-repo-link]
+    cd aira
+    
+    3. Set up a Virtual Environment
+    For Windows:
+    
+    python -m venv venv
+    venv\Scripts\activate
+    
+    For macOS/Linux:
+    
+    python3 -m venv venv
+    source venv/bin/activate
+    
+    4. Install Dependencies
+    pip install -r requirements.txt
+    
+    5. Configure Your Secrets
+    Create a file at .streamlit/secrets.toml and add your Azure OpenAI credentials.
+    
+    # .streamlit/secrets.toml
+    
+    # Azure OpenAI Credentials
+    AZURE_ENDPOINT = "your-azure-endpoint-here"
+    AZURE_API_KEY = "your-azure-api-key-here"
+    API_VERSION = "your-api-version"
+    DEPLOYMENT_NAME = "your-model-deployment-name"
+    
+    6. Run the Application
+    streamlit run app.py
+    
+    👥 Meet the Team
+    Member
+    
+    LinkedIn Profile
+    
+    Krishna vamsi R
+    
+    <a href="https://www.linkedin.com/in/krishna-vamsi"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+    
+    Philippa Burgess
+    
+    <a href="https://www.linkedin.com/in/philippaburgess"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+    
+    Charishma Regulavalasa
+    
+    <a href="https://www.linkedin.com/in/charishma-regulavalasa"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
 
